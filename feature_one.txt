@@ -1,0 +1,7 @@
+Initial test when file was created.
+
+Editing the file, adding a second line.
+
+Second edit of feature file.
+
+Third edit. Fourth commit.
