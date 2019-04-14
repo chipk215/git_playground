@@ -5,3 +5,10 @@ Editing the file, adding a second line.
 Second edit of feature file.
 
 Third edit. Fourth commit.
+
+-----
+First edit after push.
+
+Second edit after push.
+
+Third edit after push.
